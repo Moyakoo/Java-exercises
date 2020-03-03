@@ -1,5 +1,8 @@
 package Java_02_对象函数.Java_面向对象;
-//工作
+
+/**
+ * 工作
+ */
 public class Work {
     String company;//公司
     String duty;//职务
