@@ -13,5 +13,14 @@ public class Demo {
         Witch witch = new Witch("魔女","绝望");
         witch.run("魔法少女");//相当于重载
         witch.run();
+
+
+
+        /*
+        关于定义变量:
+        被final修饰过的变量转为常量，其无法被修改
+        如果被final修饰过的对象虽然对象内容可以更改但指向无法改变。
+        */
+        final String name = "萌芽子";
     }
 }
